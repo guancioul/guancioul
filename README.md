@@ -16,5 +16,3 @@
 
 ### 📊 Activity
 ![LeetCode Stats](https://leetcard.jacoblin.cool/guancioul?theme=dark)
-
-![GitHub Stats](https://github-readme-stats-zeta-bay-50.vercel.app/api?username=guancioul&show_icons=true&theme=radical)
