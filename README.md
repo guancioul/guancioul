@@ -10,7 +10,7 @@
 - 🎓 **Pronouns**: he/him
 
 ### ☸️ Open Source Contributions
-![Contribution Dashboard](https://guancioul.github.io/open-source/)
+- [Contribution Dashboard](https://guancioul.github.io/open-source/)
 
 ### 📊 Activity
 ![LeetCode Stats](https://leetcard.jacoblin.cool/guancioul?theme=dark)
