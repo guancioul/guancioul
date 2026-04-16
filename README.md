@@ -9,10 +9,8 @@
 - ☸️ **Open Source**: [**Strimzi**](https://strimzi.io/) Contributor
 - 🎓 **Pronouns**: he/him
 
-### ☸️ Strimzi Contributions
-- **Proposals**: [Prop 215: Pod background deletion feature gate](https://github.com/strimzi/proposals/pull/215)
-- **Kafka Bridge**: [Upgrade Vert.x/Netty dependencies](https://github.com/strimzi/strimzi-kafka-bridge/pull/1103), [Optimize consumer null checks](https://github.com/strimzi/strimzi-kafka-bridge/pull/1100), [Refactor SinkTopicSubscription mapping](https://github.com/strimzi/strimzi-kafka-bridge/pull/1099)
-- **Infrastructure**: [Kafka 4.1.2 support in test-container](https://github.com/strimzi/test-container/pull/201), [Kafka 4.1.2 container image updates](https://github.com/strimzi/test-container-images/pull/52)
+### ☸️ Open Source Contributions
+![Contribution Dashboard](https://guancioul.github.io/open-source/)
 
 ### 📊 Activity
 ![LeetCode Stats](https://leetcard.jacoblin.cool/guancioul?theme=dark)
