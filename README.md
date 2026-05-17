@@ -18,7 +18,7 @@
 |---------|-------|----|
 | strimzi/strimzi-kafka-operator | [#12337 Re-issue mTLS KafkaUser certificates on demand](https://github.com/strimzi/strimzi-kafka-operator/issues/12337) | [#12631](https://github.com/strimzi/strimzi-kafka-operator/pull/12631) |
 | strimzi/proposals · strimzi/strimzi-kafka-operator | [#12212 Allow Background deletion propagation when Strimzi is rolling Pods](https://github.com/strimzi/strimzi-kafka-operator/issues/12212) | [#215](https://github.com/strimzi/proposals/pull/215) · [#12672](https://github.com/strimzi/strimzi-kafka-operator/pull/12672) |
-| open-telemetry/otel-arrow | [Implement struct column assignment and validation logic](https://github.com/open-telemetry/otel-arrow/pull/2964) | [#2964](https://github.com/open-telemetry/otel-arrow/pull/2964) |
+| open-telemetry/otel-arrow | [#2838 Implement struct column assignment and validation logic](https://github.com/open-telemetry/otel-arrow/issues/2838) | [#2964](https://github.com/open-telemetry/otel-arrow/pull/2964) |
 
 ### 📊 Activity
 ![LeetCode Stats](https://leetcard.jacoblin.cool/guancioul?theme=dark)
