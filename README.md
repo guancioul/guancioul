@@ -21,6 +21,4 @@
 | open-telemetry/otel-arrow | [#2838 Implement struct column assignment and validation logic](https://github.com/open-telemetry/otel-arrow/issues/2838) | [#2964](https://github.com/open-telemetry/otel-arrow/pull/2964) |
 
 ### 📊 Activity
-[![DevStats Card](https://devstats.me/?username=guancioul&theme=tokyonight)](https://github.com/tico88612/devstats-card)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/guancioul?theme=dark)
