@@ -12,13 +12,5 @@
 ### 🏅 Certifications
 [<img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="110" alt="CKA: Certified Kubernetes Administrator" />](https://www.credly.com/badges/cce95b77-8cb7-42e9-a598-7ddbeb805e64)
 
-### ☸️ Open Source Contributions (help wanted)
-
-| Project | Issue | PR |
-|---------|-------|----|
-| strimzi/strimzi-kafka-operator | [#12337 Re-issue mTLS KafkaUser certificates on demand](https://github.com/strimzi/strimzi-kafka-operator/issues/12337) | [#12631](https://github.com/strimzi/strimzi-kafka-operator/pull/12631) |
-| strimzi/proposals · strimzi/strimzi-kafka-operator | [#12212 Allow Background deletion propagation when Strimzi is rolling Pods](https://github.com/strimzi/strimzi-kafka-operator/issues/12212) | [#215](https://github.com/strimzi/proposals/pull/215) · [#12672](https://github.com/strimzi/strimzi-kafka-operator/pull/12672) |
-| open-telemetry/otel-arrow | [#2838 Implement struct column assignment and validation logic](https://github.com/open-telemetry/otel-arrow/issues/2838) | [#2964](https://github.com/open-telemetry/otel-arrow/pull/2964) |
-
 ### 📊 Activity
-![LeetCode Stats](https://leetcard.jacoblin.cool/guancioul?theme=dark)
+[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=guancioul&limit=6)](https://github.com/amankumarconnect/readme-contribution-stats)
