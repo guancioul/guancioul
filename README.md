@@ -13,4 +13,4 @@
 [<img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="110" alt="CKA: Certified Kubernetes Administrator" />](https://www.credly.com/badges/cce95b77-8cb7-42e9-a598-7ddbeb805e64)
 
 ### 📊 Activity
-[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=guancioul&limit=6)](https://github.com/amankumarconnect/readme-contribution-stats)
+[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=guancioul&limit=10)](https://github.com/amankumarconnect/readme-contribution-stats)
